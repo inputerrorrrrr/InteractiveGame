@@ -30,11 +30,9 @@ Different decisions affect the game state and can lead to different outcomes.
 
 This project was created as the final project for CS101.
 
-Because the assignment was intended to demonstrate concepts covered in the course, I intentionally limited the implementation to techniques and Java features that had been introduced by that point in the class.
+As a result, some design choices in this project are simpler or less modular than they might be in a more advanced Java project. For example, the game is implemented in a single class and relies heavily on arrays, methods, and text-file storage because those were the techniques covered in CS101 at the time.
 
-As a result, some design choices in this project are simpler or less modular than I would use now. For example, the game is implemented in a single class and relies heavily on arrays, methods, and text-file storage rather than more advanced object-oriented structures.
-
-These choices reflect the scope of the course at the time and do not represent the full range of programming techniques I can use now.
+These choices reflect the scope of the course and the concepts available to me when the project was written.
 
 ## Technical Overview
 
